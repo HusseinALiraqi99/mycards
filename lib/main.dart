@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
 
                     Center(
                       child: Text(
-                        "حسين العبيدي",
+                        "علي العبيدي ",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: screenWidth * 0.07, // حجم خط نسبي
@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
 
                     Center(
                       child: Text(
-                        "مبرمج تطبيقات",
+                        "اداري  ",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: screenWidth * 0.05, // حجم خط نسبي
@@ -64,7 +64,7 @@ class MyApp extends StatelessWidget {
                           Icon(Icons.phone, color: Colors.cyan[700], size: screenWidth * 0.07),
                           SizedBox(width: screenWidth * 0.02), // تباعد نسبي
                           Text(
-                            "07806534141",
+                            "0780415125",
                             style: TextStyle(
                               fontSize: screenWidth * 0.05, // حجم خط نسبي
                               fontWeight: FontWeight.bold,
